@@ -27,7 +27,11 @@ public class JSAlertClass {
 		alt.accept();
 
 	}
-
+/**
+ * 
+ * 
+ * @throws Exception
+ */
 	@Test()
 	public void webTableinChrome1() throws Exception {
 		d = new ChromeDriver();
