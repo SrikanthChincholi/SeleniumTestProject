@@ -29,7 +29,7 @@ public class JSAlertClass {
 	}
 /**
  * 
- * 
+ * @author Srikanth
  * @throws Exception
  */
 	@Test()
